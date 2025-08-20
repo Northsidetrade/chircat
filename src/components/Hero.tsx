@@ -18,10 +18,10 @@ export default function Hero() {
         <div className="mx-auto max-w-6xl px-6">
           <div className="bg-black/50 text-white w-fit px-6 py-5 rounded-xl">
             <h1 className="text-4xl sm:text-6xl font-bold leading-tight">
-              Capturing Moments. Crafting Stories.
+              Øjeblikke fanges. Historier skabes.
             </h1>
             <p className="mt-3 text-sm sm:text-base opacity-90">
-              Photography • Videography • Editing
+              Fotograf • Videograf • Drone
             </p>
           </div>
         </div>
